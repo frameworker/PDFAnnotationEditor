@@ -1,0 +1,5 @@
+Revision History
+
+2018-06-28 2.1 Added tabbing between annotations in edit mode.
+2017-10-30 2.0 Updated to use latest API.
+2006-07-31 1.0 Demonstrates how to use PDF Kit to examine, edit, and create PDF annotations.
